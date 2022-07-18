@@ -23,3 +23,5 @@ When i search for a city, THEN I am presented with current conditions for that c
 
 # SPECIFICATIONS
 Weather Forecast is a simple weather dashboard that retrieved data from Open Weather Map, a third-party APIs .This app will run dynamically using HTML,CSS & JavaScript.
+# SCREEN SHOT OF HOW IT WORKS
+![TOKYO](https://user-images.githubusercontent.com/63607413/141609378-ef97604a-aa49-4b20-aa01-4a07c94a94d6.PNG)
